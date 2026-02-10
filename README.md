@@ -85,7 +85,7 @@ If you use CFDG in your research, cite:
 @software{cfdg2024,
   title = {CFDG: Cardiac Fractional Differential Games},
   author = {Rahmatjon I. Hakimov},
-  year = {2024},
+  year = {2026},
   url = {https://github.com/Oftobcom/cfdg},
   note = {Computational framework for fractional differential games in cardiac modeling}
 }
