@@ -34,7 +34,7 @@ CFDG will implement novel numerical methods for solving fractional-order differe
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cfdg.git
+git clone https://github.com/Oftobcom/cfdg.git
 cd cfdg
 
 # Install dependencies
