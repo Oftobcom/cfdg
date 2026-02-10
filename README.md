@@ -111,6 +111,6 @@ This project welcomes collaboration from researchers worldwide, particularly fro
 
 ## 📄 License
 
-MIT License © 2024 Rahmatjon I. Hakimov
+MIT License © 2026 Rahmatjon I. Hakimov
 
 See [LICENSE](LICENSE) for details.
