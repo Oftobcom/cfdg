@@ -104,8 +104,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 🌍 International Collaboration
 
 This project welcomes collaboration from researchers worldwide, particularly from:
-- Central Asia (Tajikistan, Uzbekistan, Kazakhstan)
-- Russia and CIS countries
+- Central Asia
 - International fractional calculus community
 - Cardiac electrophysiology research groups
 
